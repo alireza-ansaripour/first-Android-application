@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prj1</string>
+    <string name="action_aboutUs">درباره ما</string>
+    <string name="alireza">علیرضا انصاری پور</string>
+    <string name="habibi">محمد مهدی حبیبی</string>
+    <string name="alirezaid">92105768</string>
+    <string name="habibiid">92105768</string>
+    <string name="title">title</string>c
+    <string name="new_game">بازی جدید</string>
+    <string name="save_game">دخیره بازی</string>
+</resources>
